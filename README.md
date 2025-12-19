@@ -13,7 +13,7 @@ to my personal GitHub profile!
 
 # Hi 👋, I'm Bernardo Galante
 
-- 🔭 I'm currently working on **Advent of Code'25**
+- 🔭 I'm currently working on an **Interview Homework Assignment**
 
 - 🌱 I'm currently learning **Cyber-Security fundamentals**
 
