@@ -13,9 +13,9 @@ to my personal GitHub profile!
 
 # Hi 👋, I'm Bernardo Galante
 
-- 🔭 I'm currently working on an **Interview Homework Assignment**
+- 🔭 I'm currently working on an **Personal website with whatsapp interaction**
 
-- 🌱 I'm currently learning **Cyber-Security fundamentals**
+- 🌱 I'm currently learning **Correlating Java Spring boot, React, PostgreSQL and Twilio API (for whatsapp integration)**
 
 - 📫 How to reach me **bernardogalante.work@gmail.com**
 
